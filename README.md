@@ -23,6 +23,7 @@ Esta é uma solução para o [desafio do componente QR code no Frontend Mentor](
 ### Links
 
 - URL da Solução: [GITHUB](https://github.com/WallacyDev/Componente-de-c-digo-QR.git)
+- URL da Site ao Vivo: [GITHUB-PAGES](https://wallacydev.github.io/Componente-de-c-digo-QR)
 
 ## Meu Processo
 
